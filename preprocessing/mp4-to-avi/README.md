@@ -58,7 +58,7 @@ A new directory containing the following files:
 
 ### Role in the Full Pipeline
 This tool is part of the overall **Cardiac Tissue Image Analysis Pipeline**, which is defined as follows:
-MP4 -> AVI (Uncompressed) -> FIJI Processing -> MATLAB Quantification
+MP4 -> AVI (Uncompressed) -> FIJI Processing
 
 ### Reproducibility Note
 This tool was developed to standardize video processing across all the experiments to ensure reproducibility of results in the field of cardiac tissue image analysis.
