@@ -43,7 +43,7 @@ The video files will not change.
 ### Role in the Full Pipeline
 This tool is part of the full **Cardiac Tissue Image Analysis Pipeline**, which is defined as follows:
 
-Raw Dual Field Video → Left/Right Split → AVI Conversion (Uncompressed) → FIJI Processing → MATLAB Quantification
+Raw Dual Field Video → Left/Right Split → AVI Conversion (Uncompressed) → FIJI Processing
 
 ---
 ### Reproducibility Note
