@@ -33,25 +33,12 @@ This script estimates motion vectors between consecutive frames of a video and c
 
 This script will:
 - Display the optical flow vectors (red arrows) on the video.
-- Compute the mean motion magnitude per frame.
-- Display motion magnitude as a function of time.
-
-Optional:
-To examine a certain region of interest within the video, you can add:
-
-```matlab
-useROI = true;
-```
-
-And provide a value for `roiPos`.
 
 ---
 
 ## Output
 The script will produce:
 - A window for visualizing motion vectors.
-- A time series chart showing the mean motion magnitude (pixels/frame).
-- A time vector in seconds.
 
 The motion magnitude signal allows for the estimation of:
 - Contraction frequency
